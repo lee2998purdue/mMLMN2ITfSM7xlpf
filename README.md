@@ -28,7 +28,9 @@ I implemented a two-stage Machine Learning solution to identify and target custo
 The firm has invested about 2,831 hours on campaign calls to 40,000 customers, yielding a success rate of 7.24%.
 
 The first model has achieved an accuracy of 60.4%. By identifying 16,426 high-priority leads and eliminating 23,574 low-probability prospects, the model successfully reclaimed 1,604 hours of previously wasted campaign time. For the high-priority leads, approximately 753.5 hours were spent on the initial call, with an additional 474.1 hours dedicated to follow-up conversions.
+The feature importance plot indicated that balance and age were the key features for the first model.
 
 The second model was applied to the 16,426 high-priority leads to predict product offer acceptance. It demonstrated 84.5% accuracy in conversion prediction, successfully capturing 1,743 true positives.
+The feature importance plot indicated that duration, balance, day, and age were the key features for the second model.
 
 My approach showed a significant improvement over the 7% baseline and optimized the campaign by eliminating over 1,600 hours of unproductive call time.
