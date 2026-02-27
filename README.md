@@ -22,6 +22,7 @@ I implemented a two-stage Machine Learning solution to identify and target custo
 * Create clusters of customers who decided to accept the offer and subscribe to the product
 
 ### Tableau Dashboards
+[Dashboard Link](https://public.tableau.com/views/ApzivaProject2-TermDeposit/EducationHousingbalanceanalyses-dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Conclusion
 The firm has invested about 2,831 hours on campaign calls to 40,000 customers, yielding a success rate of 7.24%.
